@@ -10,6 +10,7 @@ import android.view.WindowManager;
 
 public class SplashActivity extends AppCompatActivity {
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
